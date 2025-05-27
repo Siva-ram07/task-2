@@ -4,7 +4,7 @@ This repository contains
 an analysis of a phishing email that was sent Microsoft Office 365 high-severity alert. The purpose is to identify and document phishing characteristics for awareness and security traits.
 
 Email screenshot:
-![Phishing Email Screenshot](phishing-email.png)
+email screenshot.png
 
 
 Phishing Characteristics Identified:
